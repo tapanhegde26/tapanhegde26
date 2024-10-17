@@ -9,6 +9,6 @@ I'm an experienced DevOps/SRE Engineer with 10+ years of expertise in Web develo
 - 👯 I’m looking to collaborate on : Open Source SRE projects, IaC tools, CI-CD pipeline setup, Containerizing application, Implementing DevOps practices, Helping organisation to embrace SRE culture.
 - 🤔 I’m looking for help with : Business management, Leadership
 - 💬 Ask me about : Kubernetes, Docker, Terraform, Jenkins, Gitlab-CI, ArgoCD, Service Mesh, GenAI, Machine learning, Security Best practices, Cybersecurity, Middleware Technologies, App development
-- 📫 How to reach me: tapanhegde091@gmail.com | www.linkedin.com/in/tapanhegde
+- 📫 How to reach me: [Gmail](tapanhegde091@gmail.com) | [LinkedIn](www.linkedin.com/in/tapanhegde)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Coming soon 😄
