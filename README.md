@@ -1,6 +1,6 @@
 # 👋 Hi There, I'm Tapan Hegde!
 
-## 🚀 SRE Engineer | DevOps Expert | Proficient in Python, Java
+## 🚀 SRE Engineer | DevOps Expert | Proficient in Terraform, AWS, python, bash
 
 I'm an experienced DevOps/SRE Engineer with 10+ years of expertise in Web development, automating deployment, operations process and project management. Proficient in Authorization servers, CI/CD pipelines, infrastructure as code (IaC), containerization, and cloud platforms. Skilled in optimizing workflows to enhance the efficiency, scalability, and reliability of applications. Proven track record in implementing secure authorization mechanism, optimizing product performance, and employing agile methodologies. I thrive in fast-paced, collaborative environments.
 
